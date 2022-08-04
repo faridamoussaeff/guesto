@@ -3,3 +3,4 @@ Rails.application.routes.draw do
   resources :greetings
   # For details on the DSL available within this file ...
 end
+
